@@ -20,6 +20,10 @@ export default function Page() {
 
         <ul>
           <li>Jujutsu Kaisen</li>
+            <p> Salah satu alasan mengapa Jujutsu Kaisen terus populer adalah 
+            keseimbangan antara pertarungan, karakter, dan komedi. 
+              Pertarungan antar penyihir terasa dinamis, sementara karakter seperti Gojo Satoru dan Yuji Itadori 
+              memiliki perkembangan yang membuat penonton terus mengikuti ceritanya. </p>
           <li>Demon Slayer</li>
           <li>Solo Leveling</li>
           <li>Black Clover</li>
