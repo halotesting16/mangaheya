@@ -6,8 +6,10 @@ export default function Home() {
         <h1 style={styles.title}>🎌 Mangaheya Anime Hub</h1>
 
         <p style={styles.subtitle}>
-          Temukan rekomendasi anime, review, dan manga terbaik
-          dengan desain modern seperti anime database site.
+           Mangaheya adalah website rekomendasi anime dan manga yang
+        membahas berbagai genre seperti action, isekai, romance, dan
+        fantasy. Semua artikel disusun untuk membantu pembaca menemukan
+        anime terbaik sesuai selera.
         </p>
 
         <div style={styles.card}>
