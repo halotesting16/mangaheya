@@ -109,15 +109,6 @@ export default function AnimeIsekaiTerbaik() {
         </p>
 
         <div style={styles.box}>
-            
-          <a
-            href="https://mangaheya.net"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={styles.button}
-          >
-            Kunjungi Mangaheya
-          </a>
           <h3>📚 Artikel Terkait</h3>
 
           <ul>
