@@ -3,7 +3,7 @@ export default function Home() {
     <div style={styles.body}>
       <div style={styles.container}>
 
-        <h1 style={styles.title}>🎌 Mangaheya Anime Hub</h1>
+        <h1 style={styles.title}> Mangaheya Anime Hub</h1>
 
         <p style={styles.subtitle}>
            Mangaheya adalah website rekomendasi anime dan manga yang
