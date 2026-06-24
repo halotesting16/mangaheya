@@ -3,9 +3,14 @@ export default function Home() {
     <div style={{ padding: 20 }}>
       <h1>Mangaheya - Anime & Manga Hub</h1>
 
-      <p>Website rekomendasi anime dan manga terbaru 2026</p>
+      <p>
+        Mangaheya adalah website rekomendasi anime dan manga yang
+        membahas berbagai genre seperti action, isekai, romance, dan
+        fantasy. Semua artikel disusun untuk membantu pembaca menemukan
+        anime terbaik sesuai selera.
+      </p>
 
-      <h2>Menu Artikel</h2>
+      <h2>Artikel Populer</h2>
 
       <ul>
         <li><a href="/anime-terbaik-2026">Anime Terbaik 2026</a></li>
@@ -18,7 +23,7 @@ export default function Home() {
       <hr />
 
       <p>
-        Baca manga di{" "}
+        Baca manga lengkap di{" "}
         <a href="https://mangaheya.net" target="_blank">
           Mangaheya
         </a>
