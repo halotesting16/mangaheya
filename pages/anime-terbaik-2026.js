@@ -25,8 +25,11 @@ export default function Page() {
               Pertarungan antar penyihir terasa dinamis, sementara karakter seperti Gojo Satoru dan Yuji Itadori 
               memiliki perkembangan yang membuat penonton terus mengikuti ceritanya. </p>
           <li>Demon Slayer</li>
+                <p> Banyak anime memiliki cerita bagus, tetapi Demon Slayer berhasil mencuri perhatian berkat kualitas visualnya. Setiap pertarungan terasa seperti film layar lebar. Jika kamu menyukai cerita tentang keluarga, pengorbanan, dan perjalanan karakter utama menjadi lebih kuat, anime ini masih sangat layak ditonton. </p>
           <li>Solo Leveling</li>
+                <p> Adaptasi anime dari webtoon populer ini menjadi salah satu pembicaraan terbesar dalam beberapa tahun terakhir. Perjalanan Sung Jin-Woo dari hunter terlemah menjadi karakter yang sangat kuat membuat banyak penonton sulit berhenti menonton.</p>
           <li>Black Clover</li>
+                <p> Meski sempat diremehkan pada awal penayangannya, Black Clover berkembang menjadi salah satu anime shounen yang memiliki fanbase setia. Hubungan antara Asta dan Yuno menjadi salah satu daya tarik utama serial ini.</p>
         </ul>
 
         <p>
