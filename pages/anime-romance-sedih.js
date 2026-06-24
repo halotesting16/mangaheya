@@ -83,15 +83,6 @@ export default function AnimeRomanceSedih() {
     </div>
   );
 }
-<p>
-          Jika kamu suka membaca versi manga, kamu bisa menemukan
-          pembahasan lebih lengkap di Mangaheya.
-        </p>
-
-        <a href="https://mangaheya.net">➡ Kunjungi Mangaheya</a>
-
-      </div>
-    </div>
 
 const styles = {
   page: {
